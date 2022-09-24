@@ -12,4 +12,6 @@ Intended Updates:
 
 Dropdown to change victory conditions. Want a harder game? Let's up the difficulty to the 12th power or even the 15th! Bigger board included with these options.
 
+Ability to switch color schemes.
+
 Manual restart button.
