@@ -15,6 +15,7 @@ const GameController = () =>{
             alert("You win!");
         }else if (isOver(board)){
             alert("Game over!");
+            updateBoard(getEmptyBoard());
         }
     };
     
